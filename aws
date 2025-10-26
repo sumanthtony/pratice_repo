@@ -1,2 +1,3 @@
 Aws has multiple regions to host the servers and maintain the applications
 We are implementing merge conflicts using github UI
+Aws code pipeline is the wrost service in aws which won't work properly when compared to jenkins & github actions
