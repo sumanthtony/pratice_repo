@@ -1,1 +1,2 @@
 Aws has multiple regions to host the servers and maintain the applications
+Aws code pipeline is the wrost service in aws which won't work properly when compared to jenkins & github actions
